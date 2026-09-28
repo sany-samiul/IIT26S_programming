@@ -21,5 +21,5 @@ print()
 
 Substring = Word[Starting_point:Ending_point:Step_size]
 
-print(f"The word '{Word}' sliced to the defined substring is '{Substring}'.")
+print(f"\nThe word '{Word}' sliced to the defined substring is '{Substring}'.")
 print("Program ending.")
