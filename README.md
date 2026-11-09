@@ -23,3 +23,9 @@ W4-T6/7
 https://github.com/sany-samiul/IIT26S_programming/blob/main/Week%204/A4_T6.py
 
 https://github.com/sany-samiul/IIT26S_programming/blob/main/Week%204/A4_T7.py
+
+W5-T6/T7
+
+https://github.com/sany-samiul/Python_programming_W5_6/blob/main/main.py
+
+https://github.com/sany-samiul/Python_programming_W5_7/blob/main/main.py
