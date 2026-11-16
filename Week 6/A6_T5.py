@@ -55,7 +55,6 @@ def displayResults(filename: str, results: str) -> None:
 
 def main() -> None:
     print("Program starting.")
-
     filename: str = input("Insert filename: ")
 
     values: str = readValues(filename)
